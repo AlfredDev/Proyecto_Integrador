@@ -25,6 +25,7 @@ import javax.swing.JTextField;
 /**
  *
  * @author rodri
+ * @author Jose Alfredo Garcia Cortes
  */
 public class ControladorVentaSimple implements ActionListener,KeyListener,FocusListener {
     private Modelo modelo;

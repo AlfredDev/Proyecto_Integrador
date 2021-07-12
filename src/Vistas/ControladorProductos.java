@@ -17,6 +17,7 @@ import javax.swing.JTextField;
 /**
  *
  * @author rodri
+ * @author Jose Alfredo Garcia Cortes
  */
 public class ControladorProductos implements ActionListener,KeyListener{
     private VentanaProductos vpr;

@@ -12,7 +12,9 @@ import javax.swing.table.AbstractTableModel;
 /**
  *
  * @author rodri
+ * @author Jose Alfredo Garcia Cortes
  */
+
 public class ModeloTProductosVenta extends AbstractTableModel{
     private List <Object[]> dato = new ArrayList<>();
     private String encabezado[] = new String[]{

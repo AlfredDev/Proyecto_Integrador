@@ -11,6 +11,7 @@ import Login.Login;
 /**
  *
  * @author rodri
+ * @author Jose Alfredo Garcia Cortes
  */
 public class Ejecutar {
         public static void main(String[] args) {

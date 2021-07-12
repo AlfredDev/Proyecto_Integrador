@@ -12,6 +12,7 @@ import javax.swing.table.DefaultTableModel;
 /**
  *
  * @author rodri
+ * @author Jose Alfredo Garcia Cortes
  */
 public class ColaImpresiones {
     protected Queue <Impresion> cola;

@@ -10,6 +10,7 @@ import Vistas.Producto;
 /**
  *
  * @author rodri
+ * @author Jose Alfredo Garcia Cortes
  */
 public class Impresion extends Producto{
     private int numEquipo;

@@ -16,6 +16,7 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author rodri
+ * @author Jose Alfredo Garcia Cortes
  */
 public class ControladorDatosVenta implements ActionListener{
     private Modelo modelo;

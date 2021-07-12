@@ -8,6 +8,7 @@ package Login;
 /**
  *
  * @author rodri
+ * @author Jose Alfredo Garcia Cortes
  */
 public class Usuario {
     private String nombre;

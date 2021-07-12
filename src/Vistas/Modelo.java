@@ -17,6 +17,7 @@ import java.util.List;
 /**
  *
  * @author rodri
+ * @author Jose Alfredo Garcia Cortes
  */
 public class Modelo {
     private String  host     = "localhost";

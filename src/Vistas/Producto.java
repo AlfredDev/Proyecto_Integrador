@@ -7,7 +7,8 @@ package Vistas;
 
 /**
  *
- * @author rodri
+ * @author rodri 
+ * @author Jose Alfredo Garcia Cortes
  */
 public class Producto {
    private int id;

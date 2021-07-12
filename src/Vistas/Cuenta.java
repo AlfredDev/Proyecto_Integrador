@@ -12,6 +12,7 @@ import java.util.Date;
 /**
  *
  * @author rodri
+ * @author Jose Alfredo Garcia Cortes
  */
 public class Cuenta{
     private double total;

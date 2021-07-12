@@ -44,6 +44,7 @@ import javax.swing.table.TableColumnModel;
 /**
  *
  * @author rodri
+ * @author Jose Alfredo Garcia Cortes
  */
 public class VistaPrincipal extends JFrame{
     private JPanel panelEquipos;
